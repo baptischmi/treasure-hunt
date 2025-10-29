@@ -39,4 +39,4 @@ X.    Any man deserting the ship in battle or rewriting history on the
 
 Captain      : Baptiste Schmid
 Quartermaster: Mattia De Vivo
-First mate   : NAME HERE
+First mate   : David Homolka
